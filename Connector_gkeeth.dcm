@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Molex_SL_01x04_Male
+D Molex SL connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector, molex, sl
+F ~
+$ENDCMP
+#
+$CMP Neutrik_NCJ6FA-H
+D Neutrik Combo-A XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector, Discrete Ground Pin
+K xlr connector neutrik combo
+F https://www.neutrik.com/media/8445/download/ncj6fa-v.pdf?v=1
+$ENDCMP
+#
+#End Doc Library
