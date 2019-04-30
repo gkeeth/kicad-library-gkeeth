@@ -1,3 +1,45 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SW_Rotary10
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary4
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary5
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary6
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary7
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary8
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary9
+D rotary switch with 12 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
 #End Doc Library
