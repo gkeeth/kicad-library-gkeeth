@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GNDCHASSIS
+D Power flag, power ground
+K power-flag
+$ENDCMP
+#
+#End Doc Library
