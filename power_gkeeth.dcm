@@ -5,4 +5,9 @@ D Power flag, power ground
 K power-flag
 $ENDCMP
 #
+$CMP Vrelay
+D Power flag
+K power-flag
+$ENDCMP
+#
 #End Doc Library
