@@ -5,6 +5,11 @@ D Power flag, power ground
 K power-flag
 $ENDCMP
 #
+$CMP GNDRELAY
+D Power flag, relay ground
+K power-flag
+$ENDCMP
+#
 $CMP Vrelay
 D Power flag
 K power-flag
