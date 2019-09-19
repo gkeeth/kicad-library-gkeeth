@@ -6,10 +6,10 @@ K rotary switch
 F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
 $ENDCMP
 #
-$CMP SW_Rotary12_Letter
-D rotary switch with 12 positions
-K rotary switch
-F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$CMP SW_Rotary12_CK_A112xxxxCxx
+D C&K A112xxxxCxx rotary switch with 12 positions (adjustable stop)
+K rotary switch a112
+F https://www.ckswitches.com/media/1349/arotary.pdf
 $ENDCMP
 #
 $CMP SW_Rotary4
@@ -40,6 +40,12 @@ $CMP SW_Rotary8
 D rotary switch with 8 positions
 K rotary switch
 F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary8_CK_A125xxxxCxx
+D C&K A125xxxxCxx rotary switch with 8 positions (adjustable stop), 45deg indexing
+K rotary switch a125
+F https://www.ckswitches.com/media/1349/arotary.pdf
 $ENDCMP
 #
 $CMP SW_Rotary9
