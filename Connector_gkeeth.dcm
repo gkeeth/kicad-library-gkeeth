@@ -1,8 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Molex_SL_01x02_Male
+D Molex SL connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector molex sl
+F https://www.molex.com/pdm_docs/sd/705430001_sd.pdf
+$ENDCMP
+#
+$CMP Molex_SL_01x03_Male
+D Molex SL connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector molex sl
+F https://www.molex.com/pdm_docs/sd/705430001_sd.pdf
+$ENDCMP
+#
 $CMP Molex_SL_01x04_Male
 D Molex SL connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector, molex, sl
+K connector molex sl
 F https://www.molex.com/pdm_docs/sd/705430001_sd.pdf
 $ENDCMP
 #
