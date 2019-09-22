@@ -18,7 +18,19 @@ K connector molex sl
 F https://www.molex.com/pdm_docs/sd/705430001_sd.pdf
 $ENDCMP
 #
+$CMP Neutrik_NC3MAH
+D XLR Connector, Male or Female, 3 Pins, Discrete Ground Pin
+K xlr connector
+F  ~
+$ENDCMP
+#
 $CMP Neutrik_NCJ6FA-H
+D Neutrik Combo-A XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector, Discrete Ground Pin
+K xlr connector neutrik combo
+F https://www.neutrik.com/media/8445/download/ncj6fa-v.pdf?v=1
+$ENDCMP
+#
+$CMP Neutrik_NCJ6FA-H-0
 D Neutrik Combo-A XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector, Discrete Ground Pin
 K xlr connector neutrik combo
 F https://www.neutrik.com/media/8445/download/ncj6fa-v.pdf?v=1
