@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP121-AUJZ12R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 1.2V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ15R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 1.5V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ18R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 1.8V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ20R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.0V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ25R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.5V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ28R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.8V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ30R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.0V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+$CMP ADP121-AUJZ33R7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.3V, TSOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP121.pdf
+$ENDCMP
+#
+#End Doc Library
