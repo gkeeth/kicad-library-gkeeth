@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R40-11D2-12
+D NTE R40-11D2-12 DPDT, 2 Amp, Sensitive Coil, Single Contact PC Mountable Relay
+K Dual Pole Relay 12V 2A
+F https://www.nteinc.com/relay_web/pdf/R40.pdf
+$ENDCMP
+#
+#End Doc Library
