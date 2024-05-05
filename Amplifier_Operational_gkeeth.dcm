@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AD8616xRM
-D Dual precision, 20MHz, CMOS, rail-to-rail input/output operational amplifier, MSOP-8
-K dual opamp
-F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8615_8616_8618.pdf
-$ENDCMP
-#
-#End Doc Library
